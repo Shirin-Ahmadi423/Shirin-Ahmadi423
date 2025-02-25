@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shirin-Ahmadi423
-- 👀 I’m interested in coding and sports.
+- 👀 I’m interested in coding and web development.
 - 🌱 I’m currently learning English and German.
 - 💞️ I’m looking to collaborate on community coding events.
 - 📫 How to reach me? By e-mail
